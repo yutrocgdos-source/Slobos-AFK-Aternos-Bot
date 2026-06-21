@@ -1,12 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Verity",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Verity",
+    "password": "V3r1ty",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "rodrigo6714.aternos.me
+  ",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -31,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "pregunta todo lo se todo",
+        "Hola soy verity,tu asistente virtual",
+        "el.. mod de bedrock no se puede discutir."
       ]
     },
     "chat-log": true,
@@ -60,7 +61,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,8 +70,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
